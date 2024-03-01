@@ -1,7 +1,16 @@
 body{
-	background-color: bank;
+	background-color: white;
+
+}
+.sub2{
+	background-color: salmon;
+width: 1000px;
 }
 
+.sub1{
+	background-color: salmon;
+	width: 1000px;
+}
 
  #menu ul{
    list-style: none;
